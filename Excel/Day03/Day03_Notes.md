@@ -1,0 +1,15 @@
+# Day 03 - Excel Learning
+ ## Learned
+
+- VLOOKUP Function
+    - select > Data tab > Data Validation > Allow > List
+
+    - **Ctrl + Shift + Down Arrow Key** > selcet all data in the selected field
+
+    - Conditional Formatting
+
+## Practice
+
+- check car data set & student index numbers data set with vlookup and conditional formating	
+
+
